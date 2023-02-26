@@ -1,10 +1,8 @@
 # focus. 🔍🧠🎵 - a web-app with ambient sounds
-##### **Autor: Jasmin Fischli** 🌈
-##### **Version: 1.0.0**
+##### **Autor: Jasmin Fischli** 🌈 | **Version: 1.0.0**
 
 Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit Ambient Sounds entwickelt. 
 
-<br>
 <br>
 
 **Built With 🛠️**
@@ -18,7 +16,8 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - automatische zoom in bei der Mobile-Version aufgrund Verwendung BeerCSS-Framework
 - Datenschutzerklärung einbinden, wenn Google Web-Fonts angewendet werden
 - New Task-Field und Add-Button nicht zentriert zum Titel "To-Do"
-- Verbesserung Performance in der Mobile-Version
+- Kompatibilität & Verbesserung Performance in der Mobile-Version
+- wenn man über close-Button Modal schliesst bleibt Icon im Menu im aktiv-/hovered-Status
 
 <br>
 
