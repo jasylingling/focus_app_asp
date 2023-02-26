@@ -1,5 +1,7 @@
 # focus. 🔍🧠🎵 - a web-app with ambient sounds
-##### **Autor: Jasmin Fischli** 🌈 | **Version: 1.0.0**
+##### **Autor: Jasmin Fischli** 🌈  |  **Version: 1.0.0**
+
+<br>
 
 Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit Ambient Sounds entwickelt. 
 
