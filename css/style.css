@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+/* === Small CSS Reset === */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+/* === Main Styles === */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body, button, input {
+  font-family: 'Lexend', sans-serif;
+  letter-spacing: 1rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 14rem;
+}
+
+h2 {
+  font-size: 44rem;
+}
+
+main.responsive{
+  overflow-x: visible;
+}
+
+.ambient-icons {
+  font-size: 100rem;
+  width: fit-content;
+  user-select: none;
+}
+
+.ambient-icons-container {
+  position: relative;
+}
+
+.ambient-icons-container:hover {
+  cursor: pointer;
+}
+
+.ambient-icons-container:not(.primary):hover i {
+  color: var(--primary);
+}
+
+.ambient-icons-container:active {
+  cursor: ew-resize;
+}
+
+.primary>.volume-bar {
+  display: block;
+  position: absolute;
+  width: 66%;
+  height: 100%;
+  background: black;
+  opacity: 20%;
+  bottom: 0;
+  left: 0;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.volume-bar {
+  display: none;
+}
+
+.modal {
+  z-index: 150;
+}
+
+.dark .volume-bar {
+  background: black !important;
+}
+
+.light .volume-bar {
+  background: white !important;
+}
+
+textarea {
+  max-width: 100%;
+  border: none;
+  outline: none;
+  font-family: 'Lexend', sans-serif;
+  letter-spacing: 1rem;
+  line-height: 1.5;
+}
+
+.tooltip {
+  letter-spacing: 1rem;
+  user-select: none;
+}
+
+.tooltip.bottom {
+  transform: translate(-50%, 120%);
+}
+
+.tasks-container {
+  width: 100%;
+}
+
+.task {
+  margin-top: 3rem !important;
+}
+
+.task span {
+  padding-left: 8rem !important;
+}
+
+.dark .task:nth-child(even) {
+  background: #49454f80 !important;
+}
+
+.light .task:nth-child(even) {
+  background: #e7e0ec80 !important;
+}
+
+/* check completed status */
+.completed .checkbox>span {
+  text-decoration: line-through;
+}
+
+.task>a {
+  display: none;
+}
+
+.completed>a {
+  display: inline-flex;
+}
+
+.timer-container {
+  width: 100%;
+}
+
+.dark .timer-container {
+  background: #49454f44 !important;
+}
+
+.light .timer-container {
+  background: #e7e0ec3b !important;
+}
+
+.timer-option button {
+  margin: 3rem 0.2rem;
+}
+
+.timer-countdown.vertical, .timer-option.vertical {
+  padding: 0;
+}
+
+.timer-countdown h3 {
+  font-size: 75rem !important;
+}
