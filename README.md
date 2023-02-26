@@ -6,13 +6,13 @@
 
 Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit Ambient Sounds entwickelt. 
 
-
+<br>
 
 **Built with 🛠️**
 - [Beercss](https://www.beercss.com/) - Build material design in record time without stress for devs 🍺💛
 - [Howler JS](https://howlerjs.com/) - JavaScript audio library for the modern web.
 
-
+<br>
 
 **Folgende Bugs 🪲 / to do's ✅ bestehen noch und werden im Laufe des Major Projects angegangen:**
 - in der Dev-Umgebung braucht es für die Mobile-Ansicht zuerst ein Refresh der Seite damit die Volume-Bars der Icons bedient werden können
@@ -22,7 +22,7 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - Kompatibilität & Verbesserung Performance in der Mobile-Version
 - wenn man über close-Button Modal schliesst bleibt Icon im Menu im aktiv-/hovered-Status
 
-
+<br>
 
 **Weitere upcoming Features 🌟 in progress:**
 - Fullscreen-Option
