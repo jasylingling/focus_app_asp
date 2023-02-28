@@ -14,13 +14,12 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 
 <br>
 
-**Folgende Bugs 🪲 / to do's ✅ bestehen noch und werden im Laufe des Major Projects angegangen:**
-- in der Dev-Umgebung braucht es für die Mobile-Ansicht zuerst ein Refresh der Seite damit die Volume-Bars der Icons bedient werden können
-- automatisches zoom in bei der Mobile-Version aufgrund Verwendung Beercss-Framework
-- Datenschutzerklärung einbinden, wenn Google Web-Fonts angewendet werden
-- New Task-Field und Add-Button nicht zentriert zum Titel "To-Do"
-- Kompatibilität & Verbesserung Performance in der Mobile-Version
-- wenn man über close-Button Modal schliesst bleibt Icon im Menu im aktiv-/hovered-Status
+**Aktuelle Features 🤩 im Überblick:**
+- 8 Ambient Sounds mit Random-Songauswahl-Funktion und Möglichkeit Regulierung Lautstärke
+- Light & Dark Mode
+- Pomodoro Timer
+- To Do-List
+- Notes mit Download-Funktion
 
 <br>
 
@@ -31,5 +30,15 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - Dynamic Background-Images (-> z.B. scroll up and down mit Mouse um BG Bild zu wählen)
 - About mit Links/Hinweis zu Studien (Fokus-Musik)
 - weitere Auswahl Songs oder AI-Songs
+
+<br>
+
+**Folgende Bugs 🪲 / to do's ✅ bestehen noch und werden im Laufe des Major Projects angegangen:**
+- in der Dev-Umgebung braucht es für die Mobile-Ansicht zuerst ein Refresh der Seite damit die Volume-Bars der Icons bedient werden können
+- automatisches zoom in bei der Mobile-Version aufgrund Verwendung Beercss-Framework
+- Datenschutzerklärung einbinden, wenn Google Web-Fonts angewendet werden
+- New Task-Field und Add-Button nicht zentriert zum Titel "To-Do"
+- Kompatibilität & Verbesserung Performance in der Mobile-Version
+- wenn man über close-Button Modal schliesst bleibt Icon im Menu im aktiv-/hovered-Status
 
 
