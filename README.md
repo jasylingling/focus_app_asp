@@ -16,6 +16,7 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 
 **Aktuelle Features 🤩 im Überblick:**
 - 8 Ambient Sounds mit Random-Songauswahl-Funktion und Möglichkeit Regulierung Lautstärke
+- Responsive Design
 - Light & Dark Mode
 - Pomodoro Timer
 - To Do-List
