@@ -29,7 +29,7 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - Link/QR-Code-Generator für gespeicherte Einstellungen (To do List, Notes, etc.) damit von jedem PC aus und nicht nur localstorage abgerufen werden kann
 - Screensperre nach Auswahl Filter für gewünschte Zeit (z.B. 25 Min wie bei Pomodoro)
 - Dynamic Background-Images (-> z.B. scroll up and down mit Mouse um BG Bild zu wählen)
-- About mit Links/Hinweis zu Studien (Fokus-Musik)
+- About-Seite mit Links/Hinweis zu Studien (Fokus-Musik)
 - weitere Auswahl Songs oder AI-Songs
 
 <br>
@@ -40,6 +40,6 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - Datenschutzerklärung einbinden, wenn Google Web-Fonts angewendet werden
 - New Task-Field und Add-Button nicht zentriert zum Titel "To-Do"
 - Kompatibilität & Verbesserung Performance in der Mobile-Version
-- wenn man über close-Button Modal schliesst bleibt Icon im Menu im aktiv-/hovered-Status
+- wenn man über close-Button Modal schliesst, bleibt Icon im Menu im aktiv-/hovered-Status
 
 
