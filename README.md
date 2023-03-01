@@ -2,17 +2,14 @@
 ##### **Autor: Jasmin Fischli** 🌈
 ##### **Version: 1.0.0**
 
-<br>
 
 Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit Ambient Sounds entwickelt. 
 
-<br>
 
 #### **Built with 🛠️**
 - [Beercss](https://www.beercss.com/) - Build material design in record time without stress for devs 🍺💛
 - [Howler JS](https://howlerjs.com/) - JavaScript audio library for the modern web.
 
-<br>
 
 #### **Aktuelle Features 🤩 im Überblick:**
 - 8 Ambient Sounds mit Random-Songauswahl-Funktion und Möglichkeit Regulierung Lautstärke
@@ -22,7 +19,6 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - To Do-List
 - Notes mit Download-Funktion
 
-<br>
 
 #### **Weitere upcoming Features 🌟 in progress:**
 - Fullscreen-Option
@@ -32,7 +28,6 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - About-Seite mit Links/Hinweis zu Studien (Fokus-Musik)
 - weitere Auswahl Songs oder AI-Songs
 
-<br>
 
 #### **Folgende Bugs 🪲 / to do's ✅ bestehen noch und werden im Laufe des Major Projects angegangen:**
 - in der Dev-Umgebung braucht es für die Mobile-Ansicht zuerst ein Refresh der Seite damit die Volume-Bars der Icons bedient werden können
@@ -42,7 +37,6 @@ Im Zusammenhang mit dem Major Project wurde eine 1. Version einer Fokus-App mit 
 - Kompatibilität & Verbesserung Performance in der Mobile-Version
 - wenn man über close-Button Modal schliesst, bleibt Icon im Menu im aktiv-/hovered-Status
 
-<br>
 
 #### **Verwendete Musikquellen 🔍 in der App:**
 - **Waves:** https://www.zapsplat.com/music/ambience-english-coast-cornwall-beach-waves-water-sea-seagulls-crashing-water/
